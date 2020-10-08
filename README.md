@@ -13,7 +13,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📖 I’m currently studying in MNNIT Allahabad
+📖 I’m currently studying in MNNIT Allahabad <br />
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=shruti512">
 </a>
